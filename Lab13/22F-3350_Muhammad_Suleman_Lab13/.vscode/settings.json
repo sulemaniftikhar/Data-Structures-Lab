@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp",
+        "iostream": "cpp",
+        "*.rmd": "markdown",
+        "locale": "cpp"
+    }
+}
