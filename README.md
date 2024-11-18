@@ -1,32 +1,52 @@
-# Data Structures Implementations in C++  
+ ---
 
-Welcome to the **Data Structures Lab Assignments** repository! This repository contains my implementations of fundamental data structures in C++, completed as part of my coursework during **Spring 2024**.  
+# 🌟 **Data Structures Lab Assignments in C++**  
 
-## 📁 Repository Structure  
-The repository is organized into 14 lab folders, each focusing on different data structure concepts and their applications:  
+Welcome to the **Data Structures Lab Assignments** repository! This collection showcases my journey through **Data Structures and Algorithms**, implemented in **C++** as part of my **Spring 2024 coursework**.  
 
-1. **Lab 1:** Pointer, DMA, Arrays and Linked Lists (OOP Revision)
-2. **Lab 2:** OOP, Classes, Objects, Pointers, Array for searching and sorting, DMA and Time Complexity Analysis
-3. **Lab 3:** Singly Linked Lists 
-4. **Lab 4:** Doubly and Circular Linked Lists
-5. **Lab 5:** Stack, Stack (Linked list/Dynamic) and Infix Prefix Post Fix Notations
-6. **Lab 6:** Stack Operations and Infix Prefix Post Fix Notations  
-7. **Lab 7:** Implementation of Simple and Circular Both Queues and Application of Queue  
-8. **Lab 8:** Implementation Circular Queues & Dequeue and Priority Queue 
-9. **Lab 9:** Binary Search Trees, Recursive insert operation, Inorder and Postorder traversal, recursive Search operation and Tree Length and Count of Leaf nodes operations on BST 
-10. **Lab 10:** AVL Tree I
-11. **Lab 11:** AVL Tree II
-12. **Lab 12:** Binary Heap and Max, Min Heap
-13. **Lab 13:** Graphs, Adjacency Matrix, Adjacency List, BFS, DFS and Cycles detection 
-14. **Lab 14:** Hashing 
+## 📂 **Repository Structure**  
+The repository is structured into 14 labs, each covering essential data structure concepts and practical implementations:  
 
-## 🚀 Highlights  
-- Implementations are written in clean, modular C++ code.  
-- Focused on understanding core concepts and optimizing solutions.  
-- Lab-specific examples and edge cases included.  
+| **Lab** | **Topic**                                                                                          |  
+|---------|----------------------------------------------------------------------------------------------------|  
+| **Lab 1**  | Pointer, DMA, Arrays, and Linked Lists (OOP Revision)                                             |  
+| **Lab 2**  | OOP Fundamentals: Classes, Objects, Pointers, Array-based Searching & Sorting, DMA, Time Analysis |  
+| **Lab 3**  | Singly Linked Lists                                                                              |  
+| **Lab 4**  | Doubly and Circular Linked Lists                                                                 |  
+| **Lab 5**  | Stacks: Array & Linked List Implementations, Infix ↔ Prefix/Postfix                              |  
+| **Lab 6**  | Advanced Stack Operations and Applications                                                      |  
+| **Lab 7**  | Simple Queues, Circular Queues, and Queue Applications                                           |  
+| **Lab 8**  | Circular Queues, Dequeues, and Priority Queues                                                   |  
+| **Lab 9**  | Binary Search Trees: Insert, Traverse, Search, and Analyze                                       |  
+| **Lab 10** | AVL Trees - Part I                                                                               |  
+| **Lab 11** | AVL Trees - Part II                                                                              |  
+| **Lab 12** | Binary Heaps: Min/Max Heap Implementation                                                        |  
+| **Lab 13** | Graphs: BFS, DFS, Adjacency Structures, and Cycle Detection                                      |  
+| **Lab 14** | Hashing                                                                                         |  
 
-## 📦 Usage  
-Clone the repository to access the code:  
+## ✨ **Highlights**  
+- **Clean & Modular Code:** Each lab is implemented with readability and modularity in mind.  
+- **Comprehensive Examples:** Includes test cases and edge-case handling.  
+- **Optimization Focus:** Solutions emphasize efficiency and clarity.  
+
+## 🚀 **How to Use**  
+Clone the repository and explore the codebase:  
 ```bash  
 git clone https://github.com/your-username/your-repo-name.git  
 cd your-repo-name  
+```  
+
+Each lab folder contains:  
+- **Source Code:** `.cpp` files with comments for clarity.  
+- **ReadMe:** Description of concepts and implementation notes.  
+
+## 📚 **Learning Goals**  
+This repository aims to deepen understanding of:  
+1. Core data structures and their operations.  
+2. Algorithm design and time complexity analysis.  
+3. Real-world applications of data structures.  
+
+## 🌐 **Connect**  
+Have suggestions or ideas? Feel free to open an issue or contribute!  
+
+---
