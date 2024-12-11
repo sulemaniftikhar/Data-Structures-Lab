@@ -32,8 +32,8 @@ The repository is structured into 14 labs, each covering essential data structur
 ## 🚀 **How to Use**  
 Clone the repository and explore the codebase:  
 ```bash  
-git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name  
+git clone https://github.com/sulemaniftikhar/data-structures-labs.git  
+cd data-structures-labs  
 ```  
 
 Each lab folder contains:  
